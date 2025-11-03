@@ -1,7 +1,7 @@
 package org.example.google2;
 
 import org.springframework.data.neo4j.core.schema.*;
-
+//test
 @Node("User")
 public class AppUser {
 
